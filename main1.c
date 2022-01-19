@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main() {
-  printf("Hello world/n");
+  int i = 13;
+  printf("Hello world %d/n", i);
   return 0;
 }
